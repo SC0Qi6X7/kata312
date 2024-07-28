@@ -1,7 +1,6 @@
-package spring_crud.repository;
+package spring.crud.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import spring_crud.model.User;
-import java.util.List;
+import spring.crud.model.User;
 
 public interface UserRepository extends JpaRepository<User, Integer> { }

@@ -1,4 +1,4 @@
-package spring_crud.model;
+package spring.crud.model;
 
 import jakarta.persistence.*;
 
